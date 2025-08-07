@@ -35,5 +35,8 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
+## 🌟 About Me
+Hi there! I’m Abdelrahman Mohamed Abdelaziz, a Computer Science student passionate about Data Engineering. I'm on a journey to become a Data Engineer and I love sharing what I learn to help others understand data in a simple and enjoyable way!
+
 
 
